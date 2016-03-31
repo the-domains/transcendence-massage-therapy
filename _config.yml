@@ -1,0 +1,28 @@
+name: Transcendence Massage Therapy
+favicon: null
+layout_spectrum: 0.4076172423083335
+typography_spectrum: 0.2712199632078409
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.02333601238206029
+  lightness: 0.7269308331888169
+  saturation: 0.5310819721780717
+  rhythmicContrast: 0.3360932457726449
+purpose: []
